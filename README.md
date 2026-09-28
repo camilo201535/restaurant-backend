@@ -121,7 +121,7 @@ Body de ejemplo para `POST /api/users`:
   "name": "Andrés",
   "lastName": "Silva",
   "email": "andres.silva@marketsoft.com",
-  "password": "123!",
+  "password": "Total123*",
   "role": "employee"
 }
 ```
