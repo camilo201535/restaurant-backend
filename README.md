@@ -5,7 +5,7 @@ API REST para la gestion basica de un supermercado (productos, proveedores, usua
 
 | Nombre completo | Responsabilidades |
 |---|---|
-| [JUAN CAMILO TALAGA CRUZ] | Diseño de la base de datos y modelos Sequelize (Producto, Proveedor, Usuario, Venta, DetalleVenta); lógica de negocio en los servicios (validaciones, cálculo automático del total de venta, control de stock); controladores y endpoints REST de las 5 entidades; documentación Swagger; configuración de Express y conexión a PostgreSQL. |
+| JUAN CAMILO TALAGA CRUZ | Diseño de la base de datos y modelos Sequelize (Producto, Proveedor, Usuario, Venta, DetalleVenta); lógica de negocio en los servicios (validaciones, cálculo automático del total de venta, control de stock); controladores y endpoints REST de las 5 entidades; documentación Swagger; configuración de Express y conexión a PostgreSQL. |
 
 
 
